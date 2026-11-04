@@ -9,12 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "color2k": "^2.0.4",
+    "dayjs": "^1.11.23",
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "string-to-color": "^2.2.2"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
+    "@tailwindcss/typography": "^0.5.20",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
     "tailwindcss": "^4"
